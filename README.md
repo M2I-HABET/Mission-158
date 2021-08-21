@@ -1,5 +1,5 @@
 # Mission-158
-Mission 158 is a series of flights related to a collaborative effort to launch food from the Iowa State Fair into near space. This mission also resulted in a redesign of both the spacecraft enclosure and the electronics used and pushed the development of several key engineering items that will be used in future flights. 
+Mission 158 is a series of flights related to a collaborative effort to launch food from the Iowa State Fair into near space. This mission also resulted in a redesign of both the spacecraft enclosure and the electronics used and pushed the development of several key engineering items that will be used in future flights. The flights took place from June 2021 to August 2021.
 
 ## HABET Flight LX-158-A
 HABET Flighth LX-158-A was the first flight in testing both the new on board computer and a newer version of BERT. While the flight was successful in flying and recovering, a number of issues came up. As a first flight with experimental hardware however, this was expected
